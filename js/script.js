@@ -1,3 +1,5 @@
+// import { buildGrid } from './modules/init';
+
 // GET DOM ELEMENTS
 let empTable    = document.querySelector('#employees');
 // let empCount    = document.querySelector('#empCount');
